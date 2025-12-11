@@ -101,7 +101,7 @@ All configuration variables are located at the top of the script (lines 17-27):
    python main.py strategy_backtest_logs/your_trade_log.csv
    ```
    
-   Or use the default CSV path:
+   Or use the default example CSV path (example_backtests/Monday-2-4-DC.csv):
    ```bash
    python main.py
    ```
